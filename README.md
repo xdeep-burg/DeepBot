@@ -1,9 +1,9 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Karma" src="https://cdn.discordapp.com/avatars/636484020301201418/c42cd65954060d3fdf4e0a3bab01990c.png?size=1024"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Deep" src="https://cdn.discordapp.com/avatars/636484020301201418/c42cd65954060d3fdf4e0a3bab01990c.png?size=1024"> 
 
-# KarmaBot ✨
+# DeepViRkBot ✨
 
-[![Run on Repl.it](https://repl.it/badge/github/DeltaCoderr/KarmaBot)](https://repl.it/github/DeltaCoderr/KarmaBot)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/DeltaCoderr/KarmaBot)
+[![Run on Repl.it](https://repl.it/badge/github/Lovedeep-ViRk/DeepBot)](https://repl.it/github/Lovedeep-ViRk/DeepBot)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/Lovedeep-ViRk/DeepBot)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 >  A Mulitpurpose Discord Bot with a Music System used by 160K+ users and more than 1500 servers.
 
@@ -20,7 +20,7 @@ Karma Bot is a open source Discord bot coded in JavaScript with [Discord.js](htt
 
 ### Commands List 💫 
 
-Karma has a lot of features, with **8 main categories**:
+DerpBot has a lot of features, with **8 main categories**:
 
 *   🎵 **Music**: `play`, `skip`, `queue`, `np`,`filters` and **8** more! 
 *   👩‍💼 **Information**: `info`, `help`, `invite` and **2** more! 
@@ -70,7 +70,7 @@ Karma has a lot of features, with **8 main categories**:
     "AME_API": ""     //AME_API for Image Commands. Key can be found here -> (https://docs.api.amethyste.moe)
 }
 ```
-* Set up your **[emotes.json](https://github.com/DeltaCoderr/KarmaBot/blob/main/configs/emotes.json)** file with your Emoji IDS.
+* Set up your **[emotes.json](https://github.com/Lovedeep-ViRk/DeepBot/blob/main/configs/emotes.json)** file with your Emoji IDS.
 ```
 {
     "load": "",
@@ -107,7 +107,7 @@ Thanks goes to these wonderful people :
 
 <table>
   <tr>
-     <td align="center"><a href="https://github.com/DeltaCoderr"><img src="https://avatars0.githubusercontent.com/u/51528076?s=460&u=d1e28ca661a14f0b3428cc07dd410f36f891966b&v=4" width="100px;" alt=""/><br /><sub><b>DeltaCoderr</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DeltaCoderr" title="Owner">👑</a></td>
+     <td align="center"><a href="https://github.com/DeltaCoderr"><img src="https://avatars0.githubusercontent.com/u/51528076?s=460&u=d1e28ca661a14f0b3428cc07dd410f36f891966b&v=4" width="100px;" alt=""/><br /><sub><b>Lovedeep-ViRk</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=Lovedeep-ViRk" title="Owner">👑</a></td>
      <td align="center"><a href="https://github.com/PixelMadness"><img src="https://avatars2.githubusercontent.com/u/60398093?s=400&u=69c6d946c0c2169e68c32cf4dc6c3134436e7c71&v=4" width="100px;" alt=""/><br /><sub><b>PixelMadness</b></sub></a><br /><a href="https://github.com/pixelmadness/hg/commits?author=pixelmadness" title="Music">🎵</a></td>
      <td align="center"><a href="https://github.com/DevRad0415"><img src="https://avatars0.githubusercontent.com/u/75932400?s=400&u=0e048959bff907bf98d5410a8d38132f56be3a32&v=4" width="100px;" alt=""/><br /><sub><b>Zeke</b></sub></a><br /><a href="https://github.com/DevRad0415/hg/commits?author=DevRad0415" title="Code">💻</a></td>
      
